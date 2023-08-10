@@ -1,0 +1,76 @@
+
+cloak man.png
+size: 1805,1337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left Arm
+  rotate: true
+  xy: 2, 9
+  size: 336, 684
+  orig: 336, 684
+  offset: 0, 0
+  index: -1
+Rigght sleeve
+  rotate: true
+  xy: 1140, 390
+  size: 95, 193
+  orig: 95, 193
+  offset: 0, 0
+  index: -1
+Righr arm
+  rotate: true
+  xy: 688, 17
+  size: 328, 673
+  orig: 328, 673
+  offset: 0, 0
+  index: -1
+Rigjt hand
+  rotate: true
+  xy: 1685, 1188
+  size: 147, 98
+  orig: 147, 98
+  offset: 0, 0
+  index: -1
+Skull
+  rotate: false
+  xy: 1685, 1122
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+bandana
+  rotate: true
+  xy: 1363, 2
+  size: 483, 440
+  orig: 483, 440
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 487
+  size: 848, 1589
+  orig: 848, 1589
+  offset: 0, 0
+  index: -1
+cane
+  rotate: true
+  xy: 2, 347
+  size: 138, 1136
+  orig: 138, 1136
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 1593, 975
+  size: 145, 98
+  orig: 145, 98
+  offset: 0, 0
+  index: -1
+left sleeve
+  rotate: false
+  xy: 1593, 1122
+  size: 90, 213
+  orig: 90, 213
+  offset: 0, 0
+  index: -1
